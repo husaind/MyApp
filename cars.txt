@@ -2,4 +2,5 @@ Tata Motors
 Maruti
 Hyundai
 Renault
+Nissan
 Kia
